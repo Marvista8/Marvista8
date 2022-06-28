@@ -4,7 +4,7 @@
 
 ### Tech Stack 📁
 
-💎 JavaScript (ES6) | React.js | Node.js | Express | 
+💎 JavaScript (ES6) | React.js | Node.js | Express | NGINX | GCP | AZURE
 
 ### Tools Used 🧰
 
